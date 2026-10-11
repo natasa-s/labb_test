@@ -1,1 +1,1 @@
-print("Vi lär oss Git tillsammans")
+print("This is a text.")
